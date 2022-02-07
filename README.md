@@ -106,9 +106,9 @@ _Meet all those who helped raise the project from its beginnings_
 
 * **Gabriel Rodriguez** - *Founder & programador* - [gabrc52](https://github.com/gabrc52)
 
-* **Diego Hernández** - *Founder & CFO* - [Carter](https://github.com/villanuevand)
+* **Diego Hernández** - *Founder & CFO* - [Carter](https://github.com/Carter-Dieguino)
 
-* **Daniela García** - *Foundress & CIO* - [Gama](https://www.instagram.com/lagamitavella/)
+* **Daniela García** - *CIO* - [Gama](https://www.instagram.com/lagamitavella/)
 
 * **José Crisostomo** - *CTO* - [José](https://github.com/simplekjl)
 
