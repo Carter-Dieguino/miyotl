@@ -1,3 +1,5 @@
+Ok. Me toca actualizar esta app
+ 
  <img width="300" height="300" src="https://github.com/miyotl/miyotl_full_version/blob/main/assets/3.0x/icon-full-new.png">
 </p>
 
